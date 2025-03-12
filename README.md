@@ -31,3 +31,6 @@ This repository contains exercises and projects from the "Ultimate Data Structur
 - Each topic has its own directory containing relevant exercises and implementations.
 - Solutions are provided in Python, but you can implement them in any programming language of your choice.
 - Feel free to contribute by improving implementations or adding more exercises.
+
+## Additional Exercises
+For non-coding exercises related to this course, check out the [Exercises README](exercises/README.md).
