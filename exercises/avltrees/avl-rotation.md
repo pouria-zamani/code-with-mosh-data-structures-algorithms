@@ -26,12 +26,6 @@ You will be given the following sets of numbers. For each set, start with an **e
 ![AVL Tree Rotations](avl-rotation-set3.svg)
 
 
-## 🌳 AVL Tree Rotations:
-
-Below is the visual representation of the AVL Tree at each step, including necessary rotations:
-
-![AVL Tree Rotations](tree-rotation.svg)
-
 At each step, identify and apply the required **rotations**:
 - **Right Rotation (RR)**
 - **Left Rotation (LL)**
