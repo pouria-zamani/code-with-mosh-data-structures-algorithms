@@ -259,13 +259,9 @@ public class Trie {
         System.out.println(trie.containsRecursive("cat"));
 
         System.out.println(trie.findWords("ca"));
-        ;
         System.out.println(trie.findWords("co"));
-        ;
         System.out.println(trie.findWords(""));
-        ;
         System.out.println(trie.findWords(null));
-        ;
         System.out.println("Done");
     }
 }
