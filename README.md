@@ -29,7 +29,7 @@ This repository contains exercises and projects from the "Ultimate Data Structur
 
 ## How to Use This Repository
 - Each topic has its own directory containing relevant exercises and implementations.
-- Solutions are provided in Python, but you can implement them in any programming language of your choice.
+- Solutions are provided in Java, but you can implement them in any programming language of your choice.
 - Feel free to contribute by improving implementations or adding more exercises.
 
 ## Additional Exercises
